@@ -1,0 +1,13 @@
+- 👋 Hello，我是吕金鸿，我非常喜欢计算机并且致力于人工智能的发展。
+- 我希望可以在不懈的努力下获得相应的成就
+- 能够不负此生
+- 所谓男儿不展凌云志，空负天生八尺躯
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+Lvjinhong/Lvjinhong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
