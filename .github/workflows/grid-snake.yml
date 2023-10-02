@@ -28,7 +28,7 @@ jobs:
       - name: Generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v2
         with:
-          github_user_name: "stepbystepcode"
+          github_user_name: "Lvjinhong"
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
@@ -40,7 +40,7 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ secrets.AAA }}
+          GITHUB_TOKEN: ${{ secrets.LVJINHONG }}
 
 #name: Generate Snake
 #
