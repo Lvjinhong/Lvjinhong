@@ -59,7 +59,7 @@
 
 **📫 How to Reach me:**
 <p align="center">
-<a href="https://github.com/Lvjinhong/Lvjinhong"><img src="https://img.shields.io/badge/Github%20-梦想new的出来-brightgreen.svg"></a>
+<a href="https://github.com/Lvjinhong/Lvjinhong"><img src="https://img.shields.io/badge/Github%20-Lvjinhong-brightgreen.svg"></a>
 <a href="https://github.com/Lvjinhong/Lvjinhong"><img src="https://img.shields.io/badge/Wechat%20-梦想new的出来-brightgreen.svg"></a> <a href="http://www.jhplanet.cn:4000/"><img src="https://img.shields.io/badge/我的博客-点击跳转-brightgreen.svg"></a>
 
 
