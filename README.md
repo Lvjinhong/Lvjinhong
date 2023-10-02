@@ -49,18 +49,21 @@
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
 | ![Lvjinhong's github stats](https://github-readme-stats.vercel.app/api?username=Lvjinhong&show_icons=true&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Lvjinhong&layout=compact) |
 
+<p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lvjinhong"></img>
+</p>
 
 <!--   profile-green-animate -->
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
 
 **📫 How to Reach me:**
-<p align="left">
+<p align="center">
+<a href="https://github.com/Lvjinhong/Lvjinhong"><img src="https://img.shields.io/badge/Github%20-梦想new的出来-brightgreen.svg"></a>
+<a href="https://github.com/Lvjinhong/Lvjinhong"><img src="https://img.shields.io/badge/Wechat%20-梦想new的出来-brightgreen.svg"></a> <a href="http://www.jhplanet.cn:4000/"><img src="https://img.shields.io/badge/我的博客-点击跳转-brightgreen.svg"></a>
 
-[![Github Badge](https://img.shields.io/badge/-Github%20-CC99FF?style=flat&logo=Github&logoColor=FFCCFF)](https://github.com/Lvjinhong/Lvjinhong) 
-<a href="https://github.com/Lvjinhong/Lvjinhong"><img src="https://img.shields.io/badge/Wechat%20-梦想new的出来-brightgreen.svg"></a> 
-<a href="http://www.jhplanet.cn:4000/"><img src="https://img.shields.io/badge/我的博客-点击跳转-brightgreen.svg"></a>    
+
+    
 <!-- <a href="https://blog.csdn.net/runofsun?spm=1000.2115.3001.5343"><img src="https://img.shields.io/badge/我的CSDN-点击跳转-brightgreen.svg"></a>  -->
 
 
@@ -71,6 +74,7 @@
 ---
 <div align="center">
 <summary>Trophy: Github Profile Trophy</summary>
+<br>
 </div>
 
 <p align="center"> 
@@ -89,10 +93,13 @@
 
 <p align="center"> 
 <img src="https://profile-counter.glitch.me/Lvjinhong/count.svg">  
+</p>
 
 counting of visitors to this page in this section started from May 8, 2022
-<a href="http://s01.flagcounter.com/more/ap7"><img src="https://s01.flagcounter.com/count2/nbcg/bg_FFFFFF/txt_000000/border_CCCCCC/columns_7/maxflags_28/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 
+<p align="center">
+<a href="http://s01.flagcounter.com/more/ap7"><img src="https://s01.flagcounter.com/count2/nbcg/bg_FFFFFF/txt_000000/border_CCCCCC/columns_7/maxflags_28/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+</p>
 
 <!-- ## Star History -->
 
