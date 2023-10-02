@@ -3,7 +3,9 @@
 <!--   my-icons -->
 <p align="center">
     <a href="https://github.com/Lvjinhong/Lvjinhong"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
-    <a href="https://github.com/Lvjinhong/Lvjinhong/stargazers"><img src="https://img.shields.io/github/stars/Lvjinhong?logo=github
+    <img src="https://img.shields.io/badge/python-3.11-brightgreen.svg">
+    <img src="https://img.shields.io/badge/祈愿-最美丽的奇迹-6633FF.svg">
+    <a href="https://github.com/Lvjinhong/Lvjinhong/stargazers"><img src="https://img.shields.io/github/stars/Lvjinhong?logo=github alt="visitors"
 "></a>
     <img src="https://visitor-badge.laobi.icu/badge?page_id=Lvjinhong.Lvjinhong" alt="visitors"/>   
 </p>
@@ -17,15 +19,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Lvjinhong;+Welcome+to+My+Profile!;Over+4+years+of+programming+experience;Always+learning+new+things+;Undergraduates+in+CS+at+Shanxi+University)](https://git.io/typing-svg)
 
 
-<!--   my-kaggle     
-### My achievements on [kaggle](https://www.kaggle.com/andrej0marinchenko):
-
+   <!-- my-kaggle      -->
+<!-- ### My achievements on [kaggle](https://www.kaggle.com/andrej0marinchenko):
 ![competition_light](https://road-to-kaggle-grandmaster.vercel.app/api/badges/andrej0marinchenko/competition/light)
 ![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/andrej0marinchenko/dataset/light)
 ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/andrej0marinchenko/notebook/light)
-![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/andrej0marinchenko/discussion/light)
--->
-
+![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/andrej0marinchenko/discussion/light) -->
 
 <!--   my-skils -->
 
@@ -56,7 +55,12 @@
 **📫 How to Reach me:**
 <p align="left">
 
-[Wechat ID]() : Lvjinhong 
+[Wechat ID]() : 梦想New的出来
+
+![GitHub Logo](https://linkedin.com/in/andrej-marinchenko-0445b7214)
+
+<a herf="https://space.bilibili.com/407074030">
+<img src="https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/ae01b255208d4eba8fb9d5a72a5ac426~tplv-k3u1fbpfcp-jj-mark:900:0:0:0:q75.avis"></img> </a>
 
 [Bilibili](https://space.bilibili.com/407074030)
 
@@ -70,7 +74,6 @@
 <p align="center"> 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Lvjinhong" alt="BEPb" /></a>
 </p> 
-
 
 <div align="center">
 <summary>Trophy: Hackerrank Profile Trophy</summary>
