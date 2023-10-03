@@ -11,12 +11,16 @@
 </p>
 
 <!--   my-header-img -->
-![](./src/header_.png)
-<!--<a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>-->
+<p align="center">
+  <a href="https://stars.github.com/profiles/denvercoder1/">
+    <img src="https://i.imgur.com/q1PV6pF.png" alt="GitHub Star 2023"/></a>
+</p>
+
+
 
 
 <!--   my-ticker -->    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Lvjinhong;+Welcome+to+My+Profile!;Over+4+years+of+programming+experience;Always+learning+new+things+;Undergraduates+in+CS+at+Shanxi+University)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2366FFFF&center=true&vCenter=true&width=600&lines=Hi+👋,+I+am+Lvjinhong;+Welcome+to+My+Profile!;Always+learning+new+things+;坚信梦想new的出来;祈愿奇迹的力量;)](https://git.io/typing-svg)
 
 
    <!-- my-kaggle      -->
@@ -49,13 +53,22 @@
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
 | ![Lvjinhong's github stats](https://github-readme-stats.vercel.app/api?username=Lvjinhong&show_icons=true&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Lvjinhong&layout=compact) |
 
+
+
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lvjinhong"></img>
 </p>
 
+ <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
 <!--   profile-green-animate -->
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
+
+  
+  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Lvjinhong&bg_color=white&color=99CCFF&line=33FFFF&point=FF0033&hide_border=true" /></a>
 
 **📫 How to Reach me:**
 <p align="center">
@@ -101,22 +114,16 @@ counting of visitors to this page in this section started from May 8, 2022
 <a href="http://s01.flagcounter.com/more/ap7"><img src="https://s01.flagcounter.com/count2/nbcg/bg_FFFFFF/txt_000000/border_CCCCCC/columns_7/maxflags_28/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 </p>
 
-<!-- ## Star History -->
-
-<!-- [![Star History Chart](https://api.star-history.com/svg?repos=BEPb/BEPb&type=Date)](https://star-history.com/#BEPb/BEPb&Date) -->
-
 
 
 ### Profile Views
 counting of visitors to this page in this section started from August 17, 2023
 
-![](https://count.getloli.com/get/@Lvjinhong.github.readme)
-</br>
 
-[MIT](LICENSE)
-
-
+<p align="center">
+  <img src="https://count.getloli.com/get/@Lvjinhong.github.readme" alt="Counter">
 </p>
+</br>
 
 Would you ike to meet me?
 
