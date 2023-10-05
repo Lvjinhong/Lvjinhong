@@ -56,8 +56,9 @@
 
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Lvjinhong"></img>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Lvjinhong" alt="GitHub Readme Streak Stats - 七彩之芒 奇迹之光 终会降临"></img>
 </p>
+
 
  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
